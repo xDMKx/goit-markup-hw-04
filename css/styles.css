@@ -96,20 +96,6 @@ ol {
     position: relative;
 }
 
-.header-link:hover,
-{
-color: #404BBF;
-}
-
-.header-link:focus,
-{
-color: #404BBF;
-}
-
-.header-link:active {
-    color: #404BBF;
-}
-
 .header-list {
     text-decoration: none;
     list-style-type: none;
