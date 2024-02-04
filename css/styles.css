@@ -53,6 +53,10 @@ ol {
     align-items: center;
 }
 
+.studio-link.current {
+    color: #404BBF;
+}
+
 .studio-link.current::after {
     content: "";
     position: absolute;
