@@ -53,7 +53,7 @@ ol {
     align-items: center;
 }
 
-.current {
+.header-menu.current {
     position: relative;
     color: #404bbf;
 }
