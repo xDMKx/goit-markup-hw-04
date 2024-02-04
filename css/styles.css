@@ -168,7 +168,6 @@ ol {
     line-height: 1.07;
     letter-spacing: 0.02em;
     font-weight: 700;
-    box-sizing: content-box;
     margin: 0 auto 48px;
     max-width: 496px;
 }
