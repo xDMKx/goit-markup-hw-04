@@ -46,6 +46,7 @@ ol {
     align-items: center;
     flex-grow: 1;
     justify-content: start;
+    position: relative;
 }
 
 .adr-link {
@@ -63,7 +64,6 @@ ol {
     text-transform: uppercase;
     text-decoration: none;
     margin-right: 76px;
-    position: relative;
 }
 
 .logo-part {
@@ -79,6 +79,7 @@ ol {
     letter-spacing: 0.32px;
     display: block;
     padding: 24px 0;
+    position: relative;
 }
 
 .header-link:hover,
