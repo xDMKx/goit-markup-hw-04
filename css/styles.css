@@ -46,7 +46,6 @@ ol {
     align-items: center;
     flex-grow: 1;
     justify-content: start;
-    position: relative;
 }
 
 .adr-link {
@@ -83,7 +82,15 @@ ol {
 }
 
 .header-link:hover,
+{
+color: #404BBF;
+}
+
 .header-link:focus,
+{
+color: #404BBF;
+}
+
 .header-link:active {
     color: #404BBF;
 }
@@ -130,6 +137,10 @@ ol {
 }
 
 .adr-link:hover,
+{
+color: #404BBF;
+}
+
 .adr-link:focus {
     color: #404BBF;
 }
